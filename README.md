@@ -1,4 +1,4 @@
-## Time Table Generator
+  ## Time Table Generator
 
 _Time Table Generator_ is a dynamic system that schedules the slots and the teachers for a particular subject and day according to given constraints by the user.
 This has been done by modelling a Constraint Satisfaction Problem with the inputs and constraints given by the user and outputting a valid timetable that adheres to all constraints.
