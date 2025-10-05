@@ -43,7 +43,7 @@ This has been done by modelling a Constraint Satisfaction Problem with the input
 
 1. Clone the repository
 ```
-git clone https://github.com/shreyavaidya2311/timetable-generator.git
+git clone https://github.com/KirtanKRP/TimeTable-Generator.git
 ```
 
 2. Installing dependencies
