@@ -63,8 +63,5 @@ cd backend
 python3 app.py
 ```
 
-## Contributors
 
-- <a href="https://github.com/shreyavaidya2311">Shreya Vaidya</a>
-- <a href="https://github.com/sameerkavthekar">Sameer Kavthekar</a>
 
